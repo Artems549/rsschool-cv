@@ -17,12 +17,13 @@ Hi. Let me tell you a little bit about myself. My name is Artem, I'm 25 years ol
 * Learnability
 * Attention to detail
 * Critical thinking 
-* Responsibility 
+* Responsibility  
 
 ### Mastered programs 
 * Siemens NX
 * SprutCAM
-* TFlex CAD
+* TFlex CAD  
+
 ### Mastered machines 
 * DMG Mori
 * HAAS
