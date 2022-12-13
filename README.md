@@ -1,3 +1,3 @@
 # rsschool-cv
 
-cv.md
+https://github.com/Artems549/rsschool-cv/blob/gh-pages/cv.md
