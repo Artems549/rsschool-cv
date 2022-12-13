@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://GITHUB-artems549.github.io/rsschool-cv/cv
+https://GITHUB-Artems549.github.io/rsschool-cv/cv
