@@ -1,16 +1,14 @@
 # Artem Stepanov
-Middle CNC Programmer 
+#### Middle CNC Programmer 
 ****
 ### My contact:
 
-Email: sfmilling@mail.ru
-Number phone: + 995 599 13 46 96
-Telegram: @artemstepanov1
+Email: sfmilling@mail.ru  
+Number phone: + 995 599 13 46 96  
+Telegram: @artemstepanov1  
 
 ---
 
 ### Aboyt myself 
 
-На протяжении 5 лет работал программисто станков с ЧПУ, 
-
-Здравствуйте. На протяжении 5 лет был занят в сфере производства, начинал свой путь со стажера и дошел до программиста станков с ЧПУ. На всем протяжении своего пути учился профессии преимущественно сам периодически сверяясь с более опытными специалистами.  Когда около года проработал на позиции программиста станков с ЧПУ задумался над тем что бы попробовать что то еще, но уже в IT сфере так как она мне интересна. Как только выдалась возможность начать изучение я сразу к нему приступил. 
+Hi. Let me tell you a little bit about myself. My name is Artem, I'm 25 years old. My career began in Tula, at the age of 19 years in metalworking. Always tried to develop and pump my skills, but after a couple of years, realizing that I`ve exhausted myself in this city and moved to Moscow, where I began to study CNC machines, and later became a programmer of CNC machines. In Moscow on several production sites I proved myself as a confident specialist and a pleasant colleague to rely on. Along the way I was getting into engineering and design tasks, which I was eager to perform. All along the way I was learning the profession mostly by myself, occasionally referring to more experienced professionals. At the age of 23 I started to think about my life in that field, and realized that I wanted to get a second interesting occupation, not tied to a specific place. The idea that I can do what I love from anywhere in the world motivates me and I went to RS school on the advice of my friend. I intend to learn front-end development and succeed in it as I did in my first job.  
