@@ -1,5 +1,5 @@
 # Artem Stepanov
-#### Middle CNC Programmer 
+#### Frontend Developer 
 ****
 ### My contact:
 
