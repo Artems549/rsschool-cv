@@ -1,1 +1,29 @@
+body {
+	background: linear-gradient(to right, #3B97EC 17%, #E4EBF1 17%,#E4EBF1 100%);
+}
+.avatar {
+	width: 15%;
+	height: 15%;
 
+	float: left;
+	margin:;
+	
+}
+.header_top {
+	margin-left: 250px;
+	margin-top: 200px;
+	
+}
+.rsfoto {
+	width: 15%;
+	height: 15%;
+}
+.contact_top {
+	margin-top: 200px;
+}
+.myself_top {
+	margin-left: 250px;
+}
+.strengths_top {
+	margin-left: 250px;
+}
