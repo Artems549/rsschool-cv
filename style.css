@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+	background: linear-gradient(to right, #3B97EC 17%, #E4EBF1 17%,#E4EBF1 100%);
+	margin: 0;
+}
+h2 {
+	font-family: 'Roboto Mono', monospace;
+	font-size: 23px;
+}
+.avatar {
+	width: 15%;
+	height: 15%; 
+	border-radius: 15px;
+
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.rsfoto {
+	width: 7%;
+	height: 7%;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+
+}
+.header_top {
+	position: absolute;
+	top: 50px;
+	left: 250px;
+}
+.name {
+	font-family: 'Roboto Mono', monospace;
+}
+.profession {
+	font-family: 'Roboto Mono', monospace;
+}
+
+.contact_top {
+	position: absolute;
+	top: 300px;
+	left: 15px;
+}
+	.mail {
+		font-family: 'Montserrat', sans-serif;
+		color: black;
+	}
+	.git_hub {
+		font-family: 'Montserrat', sans-serif;
+		text-decoration: none;
+		color: black;
+}
+.languages_top {
+	position: absolute; 
+	top: 430px;
+	left: 15px;
+}
+	.skiils_lang {
+		font-family: 'Montserrat', sans-serif;
+	}	
+.strengths_top {
+	position: absolute;
+	top: 570px;
+	left: 15px;
+}
+	.skiils {
+		font-family: 'Montserrat', sans-serif;
+	}
+.myself_top {
+	margin-left: 250px;
+	padding-right: 20px;
+}
+	.about_myself {
+		font-family: 'Montserrat', sans-serif;	
+	}
+
+.mastered_programs_top {
+	margin-left: 250px;
+}
+	.skiils_prog {
+		font-family: 'Montserrat', sans-serif;
+	}
+.mastered_machines_top {
+	margin-left: 250px;
+}
+.skiils_mach {
+	font-family: 'Montserrat', sans-serif;
+}
