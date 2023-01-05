@@ -1,29 +1,45 @@
 body {
 	background: linear-gradient(to right, #3B97EC 17%, #E4EBF1 17%,#E4EBF1 100%);
+	margin: 0;
 }
 .avatar {
 	width: 15%;
-	height: 15%;
+	height: 15%; 
+	border-radius: 15px;
 
-	float: left;
-	margin:;
-	
-}
-.header_top {
-	margin-left: 250px;
-	margin-top: 200px;
-	
+	margin-left: 15px;
+	margin-top: 15px;
 }
 .rsfoto {
-	width: 15%;
-	height: 15%;
+	width: 7%;
+	height: 7%;
+	border-radius: 10px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+
 }
+.header_top {
+	position: absolute;
+	top: 50px;
+	left: 250px;
+	border: 2px solid red;
+}
+
 .contact_top {
-	margin-top: 200px;
+	position: absolute;
+	top: 300px;
+	left: 15px;
+	border: 2px solid red;
 }
-.myself_top {
-	margin-left: 250px;
+.languages_top {
+	position: absolute; 
+	top: 450px;
+	left: 15px;
+	border: 2px solid red;
 }
 .strengths_top {
-	margin-left: 250px;
+	position: absolute;
+	top: 600px;
+	left: 15px;
+	border: 2px solid red;
 }
