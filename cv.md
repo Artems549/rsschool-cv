@@ -37,3 +37,18 @@ My name is Artem, and I'm 25 years old. I have several years of experience in pr
 * English - A1
 
 -----
+
+### Mastered programs
+* Siemens NX
+* SprutCAM
+* TFlex CAD
+
+-----
+
+### Mastered machines
+* DMG Mori
+* HAAS
+* AkiraSeiki
+* Maho
+* Bodor
+* Universal milling machines
